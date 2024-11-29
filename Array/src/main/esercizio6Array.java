@@ -42,7 +42,7 @@ public class esercizio6Array
 			}
 		}
 		if(!arrayNullo) {
-			System.out.print("I duplicati sono: ");
+			System.out.print("I duplicati saranno: ");
 			for (int i=0;i<risultato.length;i++) {
 				if (risultato[i] !=0) {
 					System.out.print(risultato[i]+" ");
