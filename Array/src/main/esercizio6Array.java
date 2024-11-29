@@ -17,7 +17,7 @@ public class esercizio6Array
 		 * elementi duplicati.
 		 */
 		boolean arrayNullo = true;
-		int array[] = { 4, 3, 2, 7, 8, 2, 3, 1 };
+		int array[] = { 8,3,7, 7, 8, 2, 3, 1 };
 		boolean[] valoreIncontrato = new boolean[array.length];
 		int[] risultato = new int[array.length];
 		int[] zero = new int[array.length];
